@@ -12,7 +12,10 @@ The job is an interesting toy, as it shows how:
 
 ## References
 
-- https://dzone.com/articles/making-data-intensive-processing-efficient-and-por
-- https://beam.apache.org/get-started/wordcount-example/
-- https://beam.apache.org/blog/2016/10/20/test-stream.html
+- https://beam.apache.org/documentation/programming-guide/
 - https://beam.apache.org/documentation/pipelines/test-your-pipeline/
+- https://beam.apache.org/blog/2016/10/20/test-stream.html
+- https://beam.apache.org/get-started/wordcount-example/
+- https://dzone.com/articles/making-data-intensive-processing-efficient-and-por
+- https://beam.apache.org/contribute/ptransform-style-guide/
+
