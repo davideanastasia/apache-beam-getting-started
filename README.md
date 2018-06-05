@@ -18,4 +18,5 @@ The job is an interesting toy, as it shows how:
 - https://beam.apache.org/get-started/wordcount-example/
 - https://dzone.com/articles/making-data-intensive-processing-efficient-and-por
 - https://beam.apache.org/contribute/ptransform-style-guide/
+- http://www.waitingforcode.com/apache-beam/joins-apache-beam/read
 

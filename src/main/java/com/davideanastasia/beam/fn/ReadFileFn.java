@@ -24,7 +24,8 @@ public class ReadFileFn extends DoFn<FileIO.ReadableFile, KV<Metadata, String>> 
             try (InputStream stream = Channels.newInputStream(rbc);
                  BufferedReader br = new BufferedReader(new InputStreamReader(stream))) {
 
-                long lineId = 0;
+                // we start counting rows from 1
+                long lineId = 1;
                 String line;
                 while ((line = br.readLine()) != null) {
                     c.output(KV.of(Metadata.of(filename, lineId), line));

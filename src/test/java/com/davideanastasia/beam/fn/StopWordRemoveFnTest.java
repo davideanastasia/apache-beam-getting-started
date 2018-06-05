@@ -9,7 +9,7 @@ import java.util.List;
 import static org.junit.Assert.*;
 
 public class StopWordRemoveFnTest {
-    
+
     static private class Empty {}
     static private final Empty EMPTY = new Empty();
 
