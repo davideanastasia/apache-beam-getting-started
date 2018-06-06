@@ -1,4 +1,4 @@
-package com.davideanastasia.beam.entity;
+package com.davideanastasia.beam.gs.entity;
 
 import java.io.Serializable;
 

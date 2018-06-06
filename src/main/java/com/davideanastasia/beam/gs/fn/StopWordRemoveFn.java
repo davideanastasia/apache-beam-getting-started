@@ -1,4 +1,4 @@
-package com.davideanastasia.beam.fn;
+package com.davideanastasia.beam.gs.fn;
 
 import com.google.common.collect.Sets;
 import org.apache.beam.sdk.transforms.DoFn;

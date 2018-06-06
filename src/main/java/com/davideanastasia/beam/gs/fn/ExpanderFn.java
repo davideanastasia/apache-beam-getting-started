@@ -1,6 +1,6 @@
-package com.davideanastasia.beam.fn;
+package com.davideanastasia.beam.gs.fn;
 
-import com.davideanastasia.beam.entity.Metadata;
+import com.davideanastasia.beam.gs.entity.Metadata;
 import org.apache.beam.sdk.transforms.DoFn;
 import org.apache.beam.sdk.values.KV;
 

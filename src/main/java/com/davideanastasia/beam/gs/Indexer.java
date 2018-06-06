@@ -1,6 +1,6 @@
-package com.davideanastasia.beam;
+package com.davideanastasia.beam.gs;
 
-import com.davideanastasia.beam.fn.*;
+import com.davideanastasia.beam.gs.fn.*;
 import org.apache.beam.sdk.Pipeline;
 import org.apache.beam.sdk.io.FileIO;
 import org.apache.beam.sdk.io.TextIO;

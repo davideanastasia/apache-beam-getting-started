@@ -1,4 +1,4 @@
 #!/bin/bash
 
-wget https://raw.githubusercontent.com/bbejeck/hadoop-algorithms/master/src/shakespeare.txt 
-mv shakespeare.txt data/input/
+mkdir -p data/input/
+wget https://raw.githubusercontent.com/bbejeck/hadoop-algorithms/master/src/shakespeare.txt -O data/input/shakespeare.txt

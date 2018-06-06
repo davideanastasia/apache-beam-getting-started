@@ -1,7 +1,7 @@
-package com.davideanastasia.beam.fn;
+package com.davideanastasia.beam.gs.fn;
 
-import com.davideanastasia.beam.entity.Index;
-import com.davideanastasia.beam.entity.Metadata;
+import com.davideanastasia.beam.gs.entity.Index;
+import com.davideanastasia.beam.gs.entity.Metadata;
 import org.apache.beam.sdk.transforms.Combine;
 
 

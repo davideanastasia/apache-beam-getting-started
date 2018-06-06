@@ -1,4 +1,4 @@
-package com.davideanastasia.beam.entity;
+package com.davideanastasia.beam.gs.entity;
 
 import com.google.common.collect.Maps;
 import com.google.common.collect.Sets;
