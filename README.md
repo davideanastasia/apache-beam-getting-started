@@ -1,8 +1,10 @@
-# Apache Beam Getting Started
+# Getting Started with Apache Beam
 
 This is 3-2-1-go project on how to get started with Apache Beam.
 
 ## Inverted Index
+
+More on this on Medium: https://medium.com/@davide.anastasia/getting-started-with-apache-beam-26bfc5126438
 
 The idea behind this simple batch job is to create an inverted index: given a set of documents in text format, the job will parse and build a word -> location mapping for each of the words.
 The job is an interesting toy, as it shows how:
