@@ -57,4 +57,12 @@ public class Index implements Serializable {
         sb.append(">");
         return sb.toString();
     }
+
+    public int numKeys() {
+        return acc.keySet().size();
+    }
+
+    public Set<Long> get(String sourceName) {
+        return acc.get(sourceName);
+    }
 }
